@@ -1,0 +1,19 @@
+{
+  "name": "tbeep-webservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Luis Vilches Abarca",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.3",
+    "request": "^2.75.0"
+  }
+}
